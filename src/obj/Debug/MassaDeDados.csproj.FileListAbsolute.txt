@@ -1,0 +1,133 @@
+c:\users\aluno\documents\visual studio 2015\Projects\MassaDeDados\MassaDeDados\bin\Debug\MassaDeDados.exe.config
+c:\users\aluno\documents\visual studio 2015\Projects\MassaDeDados\MassaDeDados\bin\Debug\MassaDeDados.exe
+c:\users\aluno\documents\visual studio 2015\Projects\MassaDeDados\MassaDeDados\bin\Debug\MassaDeDados.pdb
+c:\users\aluno\documents\visual studio 2015\Projects\MassaDeDados\MassaDeDados\obj\Debug\MassaDeDados.csprojResolveAssemblyReference.cache
+c:\users\aluno\documents\visual studio 2015\Projects\MassaDeDados\MassaDeDados\obj\Debug\MassaDeDados.Form1.resources
+c:\users\aluno\documents\visual studio 2015\Projects\MassaDeDados\MassaDeDados\obj\Debug\MassaDeDados.Properties.Resources.resources
+c:\users\aluno\documents\visual studio 2015\Projects\MassaDeDados\MassaDeDados\obj\Debug\MassaDeDados.csproj.GenerateResource.Cache
+c:\users\aluno\documents\visual studio 2015\Projects\MassaDeDados\MassaDeDados\obj\Debug\MassaDeDados.exe
+c:\users\aluno\documents\visual studio 2015\Projects\MassaDeDados\MassaDeDados\obj\Debug\MassaDeDados.pdb
+G:\Atividades Recorrentes\MassaDeDados\MassaDeDados\bin\Debug\MassaDeDados.exe.config
+G:\Atividades Recorrentes\MassaDeDados\MassaDeDados\obj\Debug\MassaDeDados.exe
+G:\Atividades Recorrentes\MassaDeDados\MassaDeDados\obj\Debug\MassaDeDados.pdb
+G:\Atividades Recorrentes\MassaDeDados\MassaDeDados\bin\Debug\MassaDeDados.exe
+G:\Atividades Recorrentes\MassaDeDados\MassaDeDados\bin\Debug\MassaDeDados.pdb
+G:\Atividades Recorrentes\MassaDeDados\MassaDeDados\obj\Debug\MassaDeDados.csprojResolveAssemblyReference.cache
+G:\Atividades Recorrentes\MassaDeDados\MassaDeDados\obj\Debug\MassaDeDados.Form1.resources
+G:\Atividades Recorrentes\MassaDeDados\MassaDeDados\obj\Debug\MassaDeDados.Properties.Resources.resources
+G:\Atividades Recorrentes\MassaDeDados\MassaDeDados\obj\Debug\MassaDeDados.csproj.GenerateResource.Cache
+G:\Atividades Recorrentes\MassaDeDados\MassaDeDados\bin\Debug\EntityFramework.dll
+G:\Atividades Recorrentes\MassaDeDados\MassaDeDados\bin\Debug\EntityFramework.SqlServer.dll
+G:\Atividades Recorrentes\MassaDeDados\MassaDeDados\bin\Debug\System.Data.SQLite.dll
+G:\Atividades Recorrentes\MassaDeDados\MassaDeDados\bin\Debug\System.Data.SQLite.EF6.dll
+G:\Atividades Recorrentes\MassaDeDados\MassaDeDados\bin\Debug\System.Data.SQLite.Linq.dll
+G:\Atividades Recorrentes\MassaDeDados\MassaDeDados\bin\Debug\EntityFramework.xml
+G:\Atividades Recorrentes\MassaDeDados\MassaDeDados\bin\Debug\EntityFramework.SqlServer.xml
+G:\Atividades Recorrentes\MassaDeDados\MassaDeDados\bin\Debug\System.Data.SQLite.xml
+F:\Atividades Recorrentes\MassaDeDados\MassaDeDados\bin\Debug\MassaDeDados.exe.config
+F:\Atividades Recorrentes\MassaDeDados\MassaDeDados\obj\Debug\MassaDeDados.exe
+F:\Atividades Recorrentes\MassaDeDados\MassaDeDados\obj\Debug\MassaDeDados.pdb
+F:\Atividades Recorrentes\MassaDeDados\MassaDeDados\bin\Debug\MassaDeDados.exe
+F:\Atividades Recorrentes\MassaDeDados\MassaDeDados\bin\Debug\MassaDeDados.pdb
+F:\Atividades Recorrentes\MassaDeDados\MassaDeDados\bin\Debug\EntityFramework.dll
+F:\Atividades Recorrentes\MassaDeDados\MassaDeDados\bin\Debug\EntityFramework.SqlServer.dll
+F:\Atividades Recorrentes\MassaDeDados\MassaDeDados\bin\Debug\System.Data.SQLite.dll
+F:\Atividades Recorrentes\MassaDeDados\MassaDeDados\bin\Debug\System.Data.SQLite.EF6.dll
+F:\Atividades Recorrentes\MassaDeDados\MassaDeDados\bin\Debug\System.Data.SQLite.Linq.dll
+F:\Atividades Recorrentes\MassaDeDados\MassaDeDados\bin\Debug\EntityFramework.xml
+F:\Atividades Recorrentes\MassaDeDados\MassaDeDados\bin\Debug\EntityFramework.SqlServer.xml
+F:\Atividades Recorrentes\MassaDeDados\MassaDeDados\bin\Debug\System.Data.SQLite.xml
+F:\Atividades Recorrentes\MassaDeDados\MassaDeDados\obj\Debug\MassaDeDados.csprojResolveAssemblyReference.cache
+F:\Atividades Recorrentes\MassaDeDados\MassaDeDados\obj\Debug\MassaDeDados.Form1.resources
+F:\Atividades Recorrentes\MassaDeDados\MassaDeDados\obj\Debug\MassaDeDados.Properties.Resources.resources
+F:\Atividades Recorrentes\MassaDeDados\MassaDeDados\obj\Debug\MassaDeDados.csproj.GenerateResource.Cache
+C:\Users\Aluno\Desktop\MassaDeDados\MassaDeDados\bin\Debug\MassaDeDados.exe.config
+C:\Users\Aluno\Desktop\MassaDeDados\MassaDeDados\obj\Debug\MassaDeDados.exe
+C:\Users\Aluno\Desktop\MassaDeDados\MassaDeDados\obj\Debug\MassaDeDados.pdb
+C:\Users\Aluno\Desktop\MassaDeDados\MassaDeDados\bin\Debug\MassaDeDados.exe
+C:\Users\Aluno\Desktop\MassaDeDados\MassaDeDados\bin\Debug\MassaDeDados.pdb
+C:\Users\Aluno\Desktop\MassaDeDados\MassaDeDados\bin\Debug\EntityFramework.dll
+C:\Users\Aluno\Desktop\MassaDeDados\MassaDeDados\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Aluno\Desktop\MassaDeDados\MassaDeDados\bin\Debug\System.Data.SQLite.dll
+C:\Users\Aluno\Desktop\MassaDeDados\MassaDeDados\bin\Debug\System.Data.SQLite.EF6.dll
+C:\Users\Aluno\Desktop\MassaDeDados\MassaDeDados\bin\Debug\System.Data.SQLite.Linq.dll
+C:\Users\Aluno\Desktop\MassaDeDados\MassaDeDados\bin\Debug\EntityFramework.xml
+C:\Users\Aluno\Desktop\MassaDeDados\MassaDeDados\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Aluno\Desktop\MassaDeDados\MassaDeDados\bin\Debug\System.Data.SQLite.xml
+C:\Users\Aluno\Desktop\MassaDeDados\MassaDeDados\obj\Debug\MassaDeDados.csprojResolveAssemblyReference.cache
+C:\Users\Aluno\Desktop\MassaDeDados\MassaDeDados\obj\Debug\MassaDeDados.Form1.resources
+C:\Users\Aluno\Desktop\MassaDeDados\MassaDeDados\obj\Debug\MassaDeDados.Properties.Resources.resources
+C:\Users\Aluno\Desktop\MassaDeDados\MassaDeDados\obj\Debug\MassaDeDados.csproj.GenerateResource.Cache
+C:\Users\Aluno\Desktop\MassaDeDados\MassaDeDados\obj\Debug\MassaDeDados.Main.resources
+C:\Users\filip\Desktop\MassaDeDados2.0\MassaDeDados\bin\Debug\MassaDeDados.exe.config
+C:\Users\filip\Desktop\MassaDeDados2.0\MassaDeDados\obj\Debug\MassaDeDados.exe
+C:\Users\filip\Desktop\MassaDeDados2.0\MassaDeDados\obj\Debug\MassaDeDados.pdb
+C:\Users\filip\Desktop\MassaDeDados2.0\MassaDeDados\bin\Debug\MassaDeDados.exe
+C:\Users\filip\Desktop\MassaDeDados2.0\MassaDeDados\bin\Debug\MassaDeDados.pdb
+C:\Users\filip\Desktop\MassaDeDados2.0\MassaDeDados\bin\Debug\EntityFramework.dll
+C:\Users\filip\Desktop\MassaDeDados2.0\MassaDeDados\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\filip\Desktop\MassaDeDados2.0\MassaDeDados\bin\Debug\System.Data.SQLite.dll
+C:\Users\filip\Desktop\MassaDeDados2.0\MassaDeDados\bin\Debug\System.Data.SQLite.EF6.dll
+C:\Users\filip\Desktop\MassaDeDados2.0\MassaDeDados\bin\Debug\System.Data.SQLite.Linq.dll
+C:\Users\filip\Desktop\MassaDeDados2.0\MassaDeDados\bin\Debug\EntityFramework.xml
+C:\Users\filip\Desktop\MassaDeDados2.0\MassaDeDados\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\filip\Desktop\MassaDeDados2.0\MassaDeDados\bin\Debug\System.Data.SQLite.xml
+C:\Users\filip\Desktop\MassaDeDados2.0\MassaDeDados\obj\Debug\MassaDeDados.csprojResolveAssemblyReference.cache
+C:\Users\filip\Desktop\MassaDeDados2.0\MassaDeDados\obj\Debug\MassaDeDados.Form1.resources
+C:\Users\filip\Desktop\MassaDeDados2.0\MassaDeDados\obj\Debug\MassaDeDados.Main.resources
+C:\Users\filip\Desktop\MassaDeDados2.0\MassaDeDados\obj\Debug\MassaDeDados.Properties.Resources.resources
+C:\Users\filip\Desktop\MassaDeDados2.0\MassaDeDados\obj\Debug\MassaDeDados.csproj.GenerateResource.Cache
+E:\MassaDeDados2.0\MassaDeDados\bin\Debug\MassaDeDados.exe.config
+E:\MassaDeDados2.0\MassaDeDados\obj\Debug\MassaDeDados.exe
+E:\MassaDeDados2.0\MassaDeDados\obj\Debug\MassaDeDados.pdb
+E:\MassaDeDados2.0\MassaDeDados\obj\Debug\MassaDeDados.csprojResolveAssemblyReference.cache
+E:\MassaDeDados2.0\MassaDeDados\obj\Debug\MassaDeDados.Form1.resources
+E:\MassaDeDados2.0\MassaDeDados\obj\Debug\MassaDeDados.Main.resources
+E:\MassaDeDados2.0\MassaDeDados\obj\Debug\MassaDeDados.Properties.Resources.resources
+E:\MassaDeDados2.0\MassaDeDados\obj\Debug\MassaDeDados.csproj.GenerateResource.Cache
+E:\MassaDeDados2.0\MassaDeDados\bin\Debug\MassaDeDados.exe
+E:\MassaDeDados2.0\MassaDeDados\bin\Debug\MassaDeDados.pdb
+E:\MassaDeDados2.0\MassaDeDados\bin\Debug\EntityFramework.dll
+E:\MassaDeDados2.0\MassaDeDados\bin\Debug\EntityFramework.SqlServer.dll
+E:\MassaDeDados2.0\MassaDeDados\bin\Debug\System.Data.SQLite.dll
+E:\MassaDeDados2.0\MassaDeDados\bin\Debug\System.Data.SQLite.EF6.dll
+E:\MassaDeDados2.0\MassaDeDados\bin\Debug\System.Data.SQLite.Linq.dll
+E:\MassaDeDados2.0\MassaDeDados\bin\Debug\EntityFramework.xml
+E:\MassaDeDados2.0\MassaDeDados\bin\Debug\EntityFramework.SqlServer.xml
+E:\MassaDeDados2.0\MassaDeDados\bin\Debug\System.Data.SQLite.xml
+G:\Atividades Recorrentes\MassaDeDados3.0\MassaDeDados\bin\Debug\MassaDeDados.exe.config
+G:\Atividades Recorrentes\MassaDeDados3.0\MassaDeDados\obj\Debug\MassaDeDados.exe
+G:\Atividades Recorrentes\MassaDeDados3.0\MassaDeDados\obj\Debug\MassaDeDados.pdb
+G:\Atividades Recorrentes\MassaDeDados3.0\MassaDeDados\bin\Debug\MassaDeDados.exe
+G:\Atividades Recorrentes\MassaDeDados3.0\MassaDeDados\bin\Debug\MassaDeDados.pdb
+G:\Atividades Recorrentes\MassaDeDados3.0\MassaDeDados\bin\Debug\EntityFramework.dll
+G:\Atividades Recorrentes\MassaDeDados3.0\MassaDeDados\bin\Debug\EntityFramework.SqlServer.dll
+G:\Atividades Recorrentes\MassaDeDados3.0\MassaDeDados\bin\Debug\System.Data.SQLite.dll
+G:\Atividades Recorrentes\MassaDeDados3.0\MassaDeDados\bin\Debug\System.Data.SQLite.EF6.dll
+G:\Atividades Recorrentes\MassaDeDados3.0\MassaDeDados\bin\Debug\System.Data.SQLite.Linq.dll
+G:\Atividades Recorrentes\MassaDeDados3.0\MassaDeDados\bin\Debug\EntityFramework.xml
+G:\Atividades Recorrentes\MassaDeDados3.0\MassaDeDados\bin\Debug\EntityFramework.SqlServer.xml
+G:\Atividades Recorrentes\MassaDeDados3.0\MassaDeDados\bin\Debug\System.Data.SQLite.xml
+G:\Atividades Recorrentes\MassaDeDados3.0\MassaDeDados\obj\Debug\MassaDeDados.csprojResolveAssemblyReference.cache
+G:\Atividades Recorrentes\MassaDeDados3.0\MassaDeDados\obj\Debug\MassaDeDados.Form1.resources
+G:\Atividades Recorrentes\MassaDeDados3.0\MassaDeDados\obj\Debug\MassaDeDados.Main.resources
+G:\Atividades Recorrentes\MassaDeDados3.0\MassaDeDados\obj\Debug\MassaDeDados.Properties.Resources.resources
+G:\Atividades Recorrentes\MassaDeDados3.0\MassaDeDados\obj\Debug\MassaDeDados.csproj.GenerateResource.Cache
+F:\Atividades Recorrentes\MassaDeDados3.0\MassaDeDados\bin\Debug\MassaDeDados.exe.config
+F:\Atividades Recorrentes\MassaDeDados3.0\MassaDeDados\obj\Debug\MassaDeDados.exe
+F:\Atividades Recorrentes\MassaDeDados3.0\MassaDeDados\obj\Debug\MassaDeDados.pdb
+F:\Atividades Recorrentes\MassaDeDados3.0\MassaDeDados\bin\Debug\MassaDeDados.exe
+F:\Atividades Recorrentes\MassaDeDados3.0\MassaDeDados\bin\Debug\MassaDeDados.pdb
+F:\Atividades Recorrentes\MassaDeDados3.0\MassaDeDados\bin\Debug\EntityFramework.dll
+F:\Atividades Recorrentes\MassaDeDados3.0\MassaDeDados\bin\Debug\EntityFramework.SqlServer.dll
+F:\Atividades Recorrentes\MassaDeDados3.0\MassaDeDados\bin\Debug\System.Data.SQLite.dll
+F:\Atividades Recorrentes\MassaDeDados3.0\MassaDeDados\bin\Debug\System.Data.SQLite.EF6.dll
+F:\Atividades Recorrentes\MassaDeDados3.0\MassaDeDados\bin\Debug\System.Data.SQLite.Linq.dll
+F:\Atividades Recorrentes\MassaDeDados3.0\MassaDeDados\bin\Debug\EntityFramework.xml
+F:\Atividades Recorrentes\MassaDeDados3.0\MassaDeDados\bin\Debug\EntityFramework.SqlServer.xml
+F:\Atividades Recorrentes\MassaDeDados3.0\MassaDeDados\bin\Debug\System.Data.SQLite.xml
+F:\Atividades Recorrentes\MassaDeDados3.0\MassaDeDados\obj\Debug\MassaDeDados.csprojResolveAssemblyReference.cache
+F:\Atividades Recorrentes\MassaDeDados3.0\MassaDeDados\obj\Debug\MassaDeDados.Form1.resources
+F:\Atividades Recorrentes\MassaDeDados3.0\MassaDeDados\obj\Debug\MassaDeDados.Main.resources
+F:\Atividades Recorrentes\MassaDeDados3.0\MassaDeDados\obj\Debug\MassaDeDados.Properties.Resources.resources
+F:\Atividades Recorrentes\MassaDeDados3.0\MassaDeDados\obj\Debug\MassaDeDados.csproj.GenerateResource.Cache
